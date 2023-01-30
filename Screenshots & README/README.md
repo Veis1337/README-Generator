@@ -14,6 +14,7 @@
 
   ## Usage
   ![Screenshot](Screenshot%202023-01-30%20115949.png)
+  ![VideoSubmission](../Submission%20Video/Video%20Submission%20Challenge%207.webm)
   To use this project - Using your terminal, just run the index.js (node index.js) and you will be prompted a series of questions to answer, upon which your README will be generated.
 
   ## Credits
