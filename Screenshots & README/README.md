@@ -1,6 +1,20 @@
 
   # README Generator
 
+  ## License 
+  ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+ 
+  For more information about this license - <https://opensource.org/licenses/MIT> 
+
+  ## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Testing](#testing)
+  - [License](#license)
+  - [Questions](#questions)
+
   ## Description
 
   My motivation for this project was - To delve deeper into using Node.JS to organize projects into separate specialized files/modules.
@@ -13,21 +27,22 @@
   To install this project - You'll need to open your terminal and run "npm init -y", then "npm install inquirer@8.2.4" in order to retrieve the necessary files to run this project. 
 
   ## Usage
-  ![Screenshot](Screenshot%202023-01-30%20115949.png)
+  ![Screenshot](./Screenshot%202023-01-30%20115949.png)
   ![VideoSubmission](../Submission%20Video/Video%20Submission%20Challenge%207.webm)
+  
   To use this project - Using your terminal, just run the index.js (node index.js) and you will be prompted a series of questions to answer, upon which your README will be generated.
 
-  ## Credits
+  ## Contributing
 
   https://opensource.org/licenses  https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
-  ## License 
-  ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
- 
-  <https://opensource.org/licenses/MIT>
-  
+  ## Testing
+
+  ## Questions
 
   Michael Weiss
 
-  Veis1337
+  GitHub - https://github.com/Veis1337 
+
+  For any questions regarding this project, feel free to reach out to me at weissm09@gmail.com 
   
