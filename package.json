@@ -1,14 +1,23 @@
 {
-  "name": "static-site",
+  "name": "challenge-7",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veis1337/README-Generator.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veis1337/README-Generator/issues"
+  },
+  "homepage": "https://github.com/Veis1337/README-Generator#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^8.2.4"
   }
 }
