@@ -27,8 +27,8 @@
   To install this project - You'll need to open your terminal and run "npm init -y", then "npm install inquirer@8.2.4" in order to retrieve the necessary files to run this project. 
 
   ## Usage
-  ![Screenshot](./Screenshot%202023-01-30%20115949.png)
-  ![VideoSubmission](../Submission%20Video/Video%20Submission%20Challenge%207.webm)
+  ![Screenshot](./Screenshots%20%26%20Sample%20README/Screenshot%202023-01-30%20115949.png)
+  ![VideoSubmission](./Submission%20Video/MP4%20-%20Video%20Submission.mp4)
   
   To use this project - Using your terminal, just run the index.js (node index.js) and you will be prompted a series of questions to answer, upon which your README will be generated.
 
